@@ -1,2 +1,2 @@
 # MERNStack-E-commerce
-E-commerce building with MERN technology and mysql
+E-commerce project building with MERN technology and mysql
