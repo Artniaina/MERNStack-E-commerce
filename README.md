@@ -1,6 +1,6 @@
-# MERNStack-E-commerce
+#MERNStack-E-commerce
 E-commerce project building with MERN technology and mysql
 
-Ce projet est presenté par:
-- Andriahariniaina Kanto Fitiavana
+This project is presented and carried out by:
+-Andriahariniaina Kanto Fitiavana
 - Rakotomalala Andoniaina Miora
