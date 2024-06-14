@@ -30,6 +30,3 @@ Database
     MongoDB: A NoSQL database, providing a flexible, scalable, and performant storage solution for the application.
     MySQL: A relational database management system, handling structured data and complex queries efficiently.
 
-Other Technologies
-
-    JSON Web Tokens (JWT): Used for secure user authentication and authorization.
