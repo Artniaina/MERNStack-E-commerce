@@ -11,14 +11,9 @@ This project is presented and carried out by:
     Andriahariniaina Kanto Fitiavana
     Rakotomalala Andoniaina Miora
 
-# Technologies Used
 
-    Frontend: React.js, Redux
-    Backend: Node.js, Express.js
-    Database: MongoDB, MySQL
-    Authentication: JSON Web Tokens (JWT)
     
-# Technology stack
+# Technologies used
 
 Frontend
 
