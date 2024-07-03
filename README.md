@@ -3,15 +3,6 @@
 # Overview
 
 MERNStack-E-commerce is a comprehensive e-commerce platform built using the MERN (MongoDB, Express.js, React.js, Node.js) stack along with MySQL for handling relational data. This project aims to provide user authentication, product management, shopping cart functionality, and order processing.
-
-# Authors
-
-This project is presented and carried out by:
-
-    Andriahariniaina Kanto Fitiavana
-    Rakotomalala Andoniaina Miora
-
-
     
 # Technologies used
 
